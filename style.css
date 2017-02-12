@@ -2,3 +2,28 @@ div {
     height: 50px;
     border: 1px solid red;
 }
+
+nav a {
+    text-align: center;
+}
+
+nav {
+    width: 100%;
+    padding-top: 10px;
+}
+
+nav ul a {
+    line-height: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 0 18px;
+    font-family: 'opensans-bold', sans-serif;
+}
+
+nav ul {
+    margin: 0;
+    text-align: center;
+}
